@@ -26,8 +26,20 @@ Deal with it.
 
 *I am thinking that a Flask + HTMX web app would fit my need nicely.*
 
-Add notes from installation here.
+It took me a while, but I installed PI OS lite with kde plasma as my desktop.
+I also got a cheap webcam that's not the best, but it'll work.
+With that out of the way, it was time to program. 
 
 ### Step 2: How do we detect a bird?!
 
 So this is where my knowledge gets a bit thin.
+I mean, how am I suppsed to contend with top minds and billion dollar companies?
+By stealing--***ahem***--utilizing the open source community we can create a simple.
+webapp that will show the video of our camera.
+
+Show Image from initial setup.
+
+It looks terrible and will slow way down to the point of unusability if more that one connection accesses it,
+but it's a start.
+I spent some time refining the ui and presentation of the video as well 
+as fixing the "can't have more that one user issue."

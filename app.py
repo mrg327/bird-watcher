@@ -6,6 +6,9 @@ camera = cv2.VideoCapture(0)
 
 
 def generate_frames():
+    # TODO: Only one user can use this at a time rn.
+    # we must decouple the rendering of the video from the accessing
+    # of the webpage.
     while True:
 
         ## read the camera frame
